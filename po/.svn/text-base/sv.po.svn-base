@@ -1,0 +1,329 @@
+# Uncivilized Translation File
+# Copyright (C) 2012 Per Löwgren
+# This file is distributed under the same license as the uncivilized package.
+# Per Löwgren <per.lowgren@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: uncivilized 0.1.0\n"
+"Report-Msgid-Bugs-To: per.lowgren@gmail.com\n"
+"POT-Creation-Date: 2012-02-02 08:47+0100\n"
+"PO-Revision-Date: 2012-01-31 05:37+0100\n"
+"Last-Translator: Per Löwgren <per.lowgren@gmail.com>\n"
+"Language-Team: Swedish\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/city.cpp:49
+msgid "Walls"
+msgstr "Stadsmur"
+
+#: src/city.cpp:55
+msgid "Fort"
+msgstr "Borg"
+
+#: src/city.cpp:61
+msgid "Citadel"
+msgstr "Citadell"
+
+#: src/city.cpp:67
+msgid "Castle"
+msgstr "Slott"
+
+#: src/city.cpp:73
+msgid "Village Hall"
+msgstr "Byhall"
+
+#: src/city.cpp:79
+msgid "Town Hall"
+msgstr "Stadshus"
+
+#: src/city.cpp:85
+msgid "City Hall"
+msgstr "Stadshus"
+
+#: src/city.cpp:91
+msgid "Barracks"
+msgstr "Baracker"
+
+#: src/city.cpp:97
+msgid "Archery Range"
+msgstr "Skyttebana"
+
+#: src/city.cpp:103
+msgid "Stables"
+msgstr "Stall"
+
+#: src/city.cpp:109
+msgid "Forge"
+msgstr "Smedja"
+
+#: src/city.cpp:115
+msgid "Market"
+msgstr "Marknad"
+
+#: src/city.cpp:121
+msgid "Harbor"
+msgstr "Hamn"
+
+#: src/city.cpp:127
+msgid "Shipyard"
+msgstr "Rederi"
+
+#: src/game.cpp:747
+msgid "Wait for your turn to move please."
+msgstr "Vänta på din tur, tack."
+
+#: src/game.cpp:756
+msgid "It is now your turn to move."
+msgstr "Det är din tur att flytta."
+
+#: src/game.cpp:1043
+#, c-format
+msgid "%s has been eliminated."
+msgstr "%s har utplånats."
+
+#: src/game.cpp:1049
+msgid "All players are eliminated, noone has won."
+msgstr "Alla spelare har utplånats, ingen har vunnit."
+
+#: src/game.cpp:1053
+#, c-format
+msgid "%s is the winner!"
+msgstr "%s är vinnare!"
+
+#: src/game.cpp:1062
+#, c-format
+msgid "Turn: %d"
+msgstr "Omgång: %d"
+
+#: src/login.cpp:69
+msgid "Login to Uncivilized"
+msgstr "Logga in till Ociviliserat"
+
+#: src/login.cpp:80
+msgid "Nickname"
+msgstr "Användarnamn"
+
+#: src/login.cpp:90
+msgid "Game Host"
+msgstr "Spel Värd"
+
+#: src/login.cpp:100 src/setup.cpp:189
+msgid "OK"
+msgstr "OK"
+
+#: src/login.cpp:105 src/setup.cpp:194
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: src/main.cpp:333
+msgid "File"
+msgstr "Fil"
+
+#: src/main.cpp:334
+msgid "New"
+msgstr "Nytt Spel"
+
+#: src/main.cpp:335
+msgid "Save"
+msgstr "Spara Spel"
+
+#: src/main.cpp:336
+msgid "Load"
+msgstr "Ladda Spel"
+
+#: src/main.cpp:337
+msgid "Connect"
+msgstr "Koppla Upp..."
+
+#: src/main.cpp:338
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/main.cpp:339
+msgid "Game"
+msgstr "Spel"
+
+#: src/main.cpp:340
+msgid "Setup"
+msgstr "Inställningar"
+
+#: src/main.cpp:341
+msgid "End Turn"
+msgstr "Avsluta Omgång"
+
+#: src/main.cpp:342
+msgid "Previous"
+msgstr "Föregående"
+
+#: src/main.cpp:343
+msgid "Next"
+msgstr "Nästa"
+
+#: src/main.cpp:344
+msgid "View"
+msgstr "Visa"
+
+#: src/main.cpp:345
+msgid "Show Map"
+msgstr "Visa Karta"
+
+#: src/main.cpp:346
+msgid "Help"
+msgstr "Hjälp"
+
+#: src/main.cpp:347
+msgid "Content"
+msgstr "Innehåll"
+
+#: src/main.cpp:348
+msgid "About"
+msgstr "Om Ociviliserat"
+
+#: src/main.cpp:818
+msgid "Disband Unit"
+msgstr "Upplös Enhet"
+
+#: src/main.cpp:818
+msgid "Are you sure you want to disband this unit?"
+msgstr "Är du säker på att du vill upplösa denna enhet?"
+
+#: src/network.cpp:297
+msgid "Starting server..."
+msgstr "Startar server..."
+
+#: src/network.cpp:298
+#, c-format
+msgid "IP address: %d.%d.%d.%d"
+msgstr "IP adress: %d.%d.%d.%d"
+
+#: src/network.cpp:300
+#, c-format
+msgid "Port: %d"
+msgstr "Port: %d"
+
+#: src/network.cpp:307
+msgid "Stopping server..."
+msgstr "Stoppar server ..."
+
+#: src/network.cpp:356
+#, c-format
+msgid "Welcome %s! You are hosting this game."
+msgstr "Välkommen %s! Du är värd för det här spelet."
+
+#: src/network.cpp:448
+#, c-format
+msgid "%s joined."
+msgstr "%s ansluter."
+
+#: src/network.cpp:460
+#, c-format
+msgid "%s left."
+msgstr "%s lämnade."
+
+#: src/paint.cpp:458
+#, c-format
+msgid "Run: %d, View[%d,%d]"
+msgstr "Räknare: %d, Vy[%d,%d]"
+
+#: src/paint.cpp:792
+msgid "Income"
+msgstr "Inkomster"
+
+#: src/paint.cpp:795
+msgid "Wages"
+msgstr "Utgifter"
+
+#: src/setup.cpp:103
+msgid "Setup the Uncivilized Game"
+msgstr "Inställningar för spelet Ociviliserat"
+
+#: src/setup.cpp:113
+msgid "Settings"
+msgstr "Inställningar"
+
+#: src/setup.cpp:126
+msgid "Horizontal wrap"
+msgstr "Horisontell fog"
+
+#: src/setup.cpp:127
+msgid "Vertical wrap"
+msgstr "Vertikal fog"
+
+#: src/setup.cpp:128
+msgid "Fog of War"
+msgstr "Krigets Dimma"
+
+#: src/setup.cpp:129
+msgid "Invite Newcomers"
+msgstr ""
+
+#: src/setup.cpp:147
+msgid "AI Players"
+msgstr "AI Spelare"
+
+#: src/setup.cpp:154
+#, c-format
+msgid "AI Player %d"
+msgstr "AI Spelare %d"
+
+#: src/setup.cpp:174
+msgid "Players"
+msgstr "Spelare"
+
+#: src/unit.cpp:39
+msgid "Worker"
+msgstr "Arbetare"
+
+#: src/unit.cpp:44
+msgid "Warrior"
+msgstr "Krigare"
+
+#: src/unit.cpp:49
+msgid "Veteran"
+msgstr "Veteran"
+
+#: src/unit.cpp:54
+msgid "Hero"
+msgstr "Hjälte"
+
+#: src/unit.cpp:59
+msgid "Hunter"
+msgstr "Jägare"
+
+#: src/unit.cpp:64
+msgid "Archer"
+msgstr "Bågskytt"
+
+#: src/unit.cpp:69
+msgid "Ranger"
+msgstr "Utbygdsjägare"
+
+#: src/unit.cpp:74
+msgid "Rider"
+msgstr "Ryttare"
+
+#: src/unit.cpp:79
+msgid "Knight"
+msgstr "Riddare"
+
+#: src/unit.cpp:84
+msgid "King"
+msgstr "Kung"
+
+#: src/unit.cpp:89
+msgid "Catapult"
+msgstr "Katapult"
+
+#: src/unit.cpp:94
+msgid "Ship"
+msgstr "Skepp"
+
+#~ msgid "Turn: %d, Active player is %s"
+#~ msgstr "Omgång: %d, Aktiv spelare är %s"
+
+#~ msgid "Now %s is moving."
+#~ msgstr "Nu är det %s som flyttar."
